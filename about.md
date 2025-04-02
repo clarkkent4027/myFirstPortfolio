@@ -6,12 +6,7 @@ permalink: /about/
 
 # About Me
 
-I am a programmer who enjoys solving problems and writing code. My work
-primarily involves creating functional and efficient software solutions, and I
-take pride in ensuring that my projects meet the requirements and run smoothly.
-While I don't consider myself particularly adventurous, I find satisfaction in
-the steady progress of learning new technologies and improving my skills over
-time.
+I am a programmer who enjoys making cool stuff. 
 
 
 When I'm not programming, I 'm having fun.

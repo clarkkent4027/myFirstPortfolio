@@ -4,15 +4,12 @@ layout: home
 
 # Example Student Portfolio
 
+Congrats on finding my portfolio!
+
 Follow along online with our [Zoom Session for the Tuesday 1 April Class.](https://us02web.zoom.us/j/89801627815?pwd=50OLJZQrdI3hsAsckgiUSlKeWFncLl.1) 
 
-This site is a simple portfolio template for students to showcase their work, 
-projects, and interests. It is built using Jekyll and hosted on GitHub Pages.
-The template is designed to be easy to customize and adapt to your own style.
-
-To get started with your own portfoilio, you can either [create a new Github repo 
-and setup Github Pages](./howto), or you can [fork this repo](https://github.com/league-curriculum/Portfolio-jekyll-barebones)
-and edit the files  with your own content.
+This site is a simple portfolio template for me to showcase my work, 
+projects, and interests. 
 
 One of my favorite projects is a [simple dino jump game I
 created](./html/dino.html). It's a browser-based game where a pixelated dinosaur

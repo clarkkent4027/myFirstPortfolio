@@ -28,7 +28,7 @@ minima:
   - howto.md
 
   social_links:
-    - title:GitHub
+    - title: GitHub
       icon: github
       url: https://github.com/clarkkent4027
     - title: LinkedIn
