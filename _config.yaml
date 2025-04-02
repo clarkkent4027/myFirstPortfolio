@@ -47,7 +47,7 @@ minima:
   #     * solarized-light    Light variant of solarized color scheme.
   #     * solarized-dark     Dark variant of solarized color scheme.
   #     * solarized 
-  skin: solarized
+  skin: auto
 
 
 
